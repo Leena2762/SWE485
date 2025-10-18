@@ -1,4 +1,4 @@
-# SWE485
+# SWE485- LinkMe
 # Group number: 6<br>
 # Student Names and IDs: <br>
 Jumanah Alwakeel         444200514<br>
@@ -10,7 +10,7 @@ Lamyaa Abukhalil         444200895<br>
 
 
 
-# Describtion:<br>
+# Description:<br>
 This project analyzes LinkedIn job postings to uncover trends in job titles, required skills, industries, and locations. Using NLP and data analytics, we explore patterns, classify job categories, and visualize emerging skill demands to better understand the job market.<br>
 
 
