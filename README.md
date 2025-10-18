@@ -1,15 +1,15 @@
 # SWE485
 Group number: 6
-Student Name:            ID:6<br>
-Jumanah Alwakeel         444200514
-Layan Alhababi           444
-Nouf Almandil            444
-leena Alsalman           444
-Lamya                    444
+Student Name:            ID:<br>
+Jumanah Alwakeel         444200514<br>
+Layan Alhababi           444<br>
+Nouf Almandil            444<br>
+leena Alsalman           444<br>
+Lamya                    444<br>
 
-Instructors:
-Hailah Almazroa  
-Razan Alghamdi 
+Instructors:<br>
+Hailah Almazroa  <br>
+Razan Alghamdi <br>
 
 
 Describtion:
